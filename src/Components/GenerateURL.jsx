@@ -96,7 +96,7 @@ function GenerateURL() {
         </div>
    { !finalURL &&  <div className="generateURL">
         <div className="icon">
-          <span>Wallet address</span>
+          <span>Receiver Wallet address</span>
         <input
           type="text"
           placeholder="Receiving address"

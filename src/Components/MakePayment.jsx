@@ -18,8 +18,7 @@ import usdc from '../assets/usdc.svg'
 
 
 
-// freelance.com/0x056397760b973BfB921Bc10Be9DA5034B1e921d7/0x1/0/1200/3085f9c4
-// ['', '0x056397760b973BfB921Bc10Be9DA5034B1e921d7', '0x1', '0', '1200', '3085f9c4']
+
 function MakePayment() {
 
     const [urlData, seturlData] = useState();
